@@ -44,26 +44,41 @@ Saltline은 Claude 아티팩트로 공개된 브라우저 게임입니다. 플�
 
 ## 실행 화면
 
-모든 화면은 한국어 모드(`?lang=ko`)에서 직접 찍은 것입니다. 용량을 줄이려고 1152×648, 128색으로 줄였습니다.
+앞의 네 장은 제작자가 자기 컴퓨터에서 직접 찍은 한국어 화면입니다(약 1860×920, WebP). 뒤의 세 장은 클라우드 브라우저에서 찍은 1152×648 화면입니다.
 
 <p align="center">
-  <img src="docs/screenshots/01-title.png" alt="솔트라인 한국어 타이틀 화면" width="720"><br>
-  <sub><b>타이틀 화면</b> — 출동·설정·조작법 버튼, 핵심 조작 안내, 오른쪽 아래 한국어/English 전환 버튼과 원작 표기 푸터</sub>
+  <img src="docs/screenshots/05-title-hd.webp" alt="솔트라인 한국어 타이틀 화면(직접 캡처)" width="800"><br>
+  <sub><b>타이틀 화면</b> — SALTLINE 로고와 <code>솔트라인</code> 부제, 슬로건, 출동·설정·조작법 버튼, 오른쪽 아래 키보드·터치 조작 안내, 아래쪽 원작 표기 푸터와 한국어/English 전환 버튼</sub>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/02-settings.png" alt="솔트라인 한국어 설정 패널" width="720"><br>
-  <sub><b>설정 패널</b> — 그래픽 품질, 마우스 감도, 상하 반전, 마스터 음량, 시야각</sub>
+  <img src="docs/screenshots/06-gameplay-hud.webp" alt="솔트라인 야적장 플레이 화면과 HUD(직접 캡처)" width="800"><br>
+  <sub><b>플레이 화면(야적장)</b> — 왼쪽 위 목표 &quot;업링크 중계기 세 개를 차단하라&quot;와 중계기 0/3, 위쪽 방위 표시와 중계기 위치·거리, 오른쪽 아래 탄약 30/150과 무기 이름, 가운데 &quot;화면을 클릭해 마우스를 고정하세요&quot; 안내</sub>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/07-warehouse-radio.webp" alt="솔트라인 창고 안 플레이 화면과 관제 무전 자막(직접 캡처)" width="800"><br>
+  <sub><b>창고 안</b> — 선반과 상자가 쌓인 실내에서 같은 HUD(목표, 방위 표시, 탄약 30/150)와 아래쪽 관제 무전 자막 &quot;놈이 널 발견했다. 갈매기는 날고 하운드는 걷는다. 전부 쓰러뜨려라.&quot;</sub>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/08-pause-controls.webp" alt="솔트라인 일시정지 화면과 조작법 패널(직접 캡처)" width="800"><br>
+  <sub><b>일시정지와 조작법</b> — 가운데 <code>일시정지</code> 카드(계속하기·설정·조작법·임무 다시 시작)와 오른쪽 조작법 패널(키보드·마우스, 터치, 게임패드)</sub>
 </p>
 
 <p align="center">
   <img src="docs/screenshots/03-briefing.png" alt="솔트라인 임무 시작 장면과 관제 무전 자막" width="720"><br>
-  <sub><b>임무 시작</b> — 장소 카드(솔트라인 터미널 · 4번 선석)와 관제 무전 자막</sub>
+  <sub><b>임무 시작</b> — 장소 카드(솔트라인 터미널 · 4번 선석 · 05:42)와 관제 무전 자막. 클라우드 캡처</sub>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/04-ingame.png" alt="솔트라인 플레이 중 HUD" width="720"><br>
-  <sub><b>플레이 화면</b> — 목표(중계기 0/3), 방위 표시와 중계기 위치, 탄약 30/150, 관제 무전 자막. 임무 시작 직후 장면이라 장소 카드가 남아 있습니다.</sub>
+  <img src="docs/screenshots/02-settings.png" alt="솔트라인 한국어 설정 패널" width="720"><br>
+  <sub><b>설정 패널</b> — 그래픽 품질, 마우스 감도, 상하 반전, 마스터 음량, 시야각. 클라우드 캡처</sub>
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/01-title.png" alt="솔트라인 한국어 타이틀 화면(클라우드 캡처)" width="480"><br>
+  <sub><b>타이틀 화면(작은 해상도)</b> — 위 타이틀 화면과 같은 장면을 1152×648로 찍은 것. 클라우드 캡처</sub>
 </p>
 
 ## 설치·실행 방법
