@@ -5732,7 +5732,7 @@ vObjP = position; vONrm = normal; vWNrm = normalize(mat3(modelMatrix) * normal);
     <div><dt>${o(`Fire`)}</dt><dd>${o(`Left button`)}</dd></div>
     <div><dt>${o(`Aim`)}</dt><dd>${o(`Right button`)}</dd></div>
     <div><dt>${o(`Reload`)}</dt><dd><kbd>R</kbd></dd></div>
-    <div><dt>${o(`Cut relay`)}</dt><dd>${r===`ko`?`길게 누르기`:`Hold`} <kbd>E</kbd></dd></div>
+    <div><dt>${o(`Cut relay`)}</dt><dd>${r===`ko`?`<kbd>E</kbd> 길게 누르기`:`Hold <kbd>E</kbd>`}</dd></div>
     <div><dt>${o(`Jump`)}</dt><dd><kbd>Space</kbd></dd></div>
     <div><dt>${o(`Sprint`)}</dt><dd><kbd>Shift</kbd></dd></div>
     <div><dt>${o(`Crouch`)}</dt><dd><kbd>C</kbd> ${r===`ko`?`또는`:`or`} <kbd>Ctrl</kbd></dd></div>
